@@ -1,0 +1,15 @@
+/* src/styles/App.css */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  padding-bottom: 60px; /* To prevent content from being hidden behind footer */
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
